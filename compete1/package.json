@@ -1,0 +1,25 @@
+{
+  "name": "shopee",
+  "version": "1.0.0",
+  "description": "shopee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eebyjo/shopee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eebyjo/shopee/issues"
+  },
+  "homepage": "https://github.com/eebyjo/shopee#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0",
+    "sequelize": "^5.21.13",
+    "sqlite3": "^4.2.0"
+  }
+}

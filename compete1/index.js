@@ -1,6 +1,6 @@
 'use strict';
 
-const { Sequelize, Op } = require('sequelize');
+const { Sequelize } = require('sequelize');
 
 const _ = require('lodash');
 const moment = require('moment');
